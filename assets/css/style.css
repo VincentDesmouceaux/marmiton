@@ -1,0 +1,103 @@
+/* GLOBAL RULES */
+body {
+  background: #efefef;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: white;
+  padding: 60px 30px;
+
+  border-radius: 20px;
+}
+s p {
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+H1 {
+  font-size: 50px;
+  text-align: center;
+  color: #393c6c;
+}
+h2 {
+  margin-bottom: 20px;
+  margin-top: 70px;
+  font-size: 30px;
+  color: #f3735f;
+}
+
+h3 {
+  line-height: 22px;
+  font-size: 18px;
+  color: #35006e;
+}
+
+header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #f3735f;
+}
+
+span {
+  background-color: #8b8eab;
+  color: white;
+  padding: 10px 50px;
+  border-radius: 10px;
+}
+
+.images img {
+  width: 250px;
+  height: 250px;
+}
+
+footer {
+  text-align: center;
+}
+
+/* background: salmon; */
+/* margin: 20px;
+  color: #333333;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.baseline {
+  background: #fff;
+  margin-top: 50px;
+}
+
+.baseline p {
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 24px;
+} */
+
+/* MAIN
+
+.movie {
+  padding: 50px 20px 40px 20px;
+}
+.movie img {
+  width: 200px;
+}
+
+.movie ul {
+  margin-top: 40px;
+}
+
+.movie ul .blue-text {
+  color: #2c82c7;
+  font-size: 20px;
+}
+
+.actors img {
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+} */
