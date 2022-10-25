@@ -10,6 +10,10 @@ body {
   margin: 0 auto;
 }
 
+main {
+  margin-top: 50px;
+}
+
 section {
   background-color: white;
   padding: 60px 30px;
@@ -44,16 +48,27 @@ header {
   border-bottom: 1px solid #f3735f;
 }
 
-span {
+.button {
   background-color: #8b8eab;
   color: white;
   padding: 10px 50px;
   border-radius: 10px;
+  background: rgb(110, 110, 137);
+  color: white;
+  width: 20%;
+  /* margin: revert; */
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
 }
 
 .images img {
   width: 250px;
   height: 250px;
+  margin-right: 20px;
+  margin-left: 58px;
+  object-fit: cover;
+  border-radius: 20px;
 }
 
 footer {
