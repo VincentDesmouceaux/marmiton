@@ -20,7 +20,7 @@ section {
 
   border-radius: 20px;
 }
-s p {
+p {
   line-height: 22px;
   margin-bottom: 20px;
 }
@@ -45,7 +45,13 @@ h3 {
 
 header {
   background-color: #ffffff;
+  height: 80px;
   border-bottom: 1px solid #f3735f;
+}
+
+header img {
+  height: 30px;
+  margin-top: 25px;
 }
 
 .button {
@@ -56,8 +62,8 @@ header {
   background: rgb(110, 110, 137);
   color: white;
   width: 20%;
-  /* margin: revert; */
-  margin: 0 auto;
+
+  margin: 30px auto;
   padding: 10px;
   text-align: center;
 }
